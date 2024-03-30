@@ -1365,7 +1365,7 @@ Day 5 - 22nd Mar. 2024
   525  gitl ls-files
   526  git ls-files
   527  git status
-  528  git stash save "created l1.txt"
+  528  git stash save "created l1.txt" // Saved working directory and index state On feature1: created l1.txt
   529  git stash list
   530  ls
   531  git status
